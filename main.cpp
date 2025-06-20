@@ -11,7 +11,7 @@ int main(int argc, char* argv[]) {
     QApplication a(argc, argv);
     QtWidgetsApplication1 w;
     w.setGeometry(500, 100, 800, 600);
-    lableacon(&w);
+   // lableacon(&w);
    // w.show();
     return a.exec();
 }
